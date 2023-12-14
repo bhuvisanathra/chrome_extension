@@ -1,0 +1,10 @@
+{
+    "name" : "bhuvi_RandomtextGenerator",
+    "description":"Developed By Bhuvnesh Sanathra. Generate any Random Text like Loreum Ipsum",
+    "version":"0.0.1",
+    "manifest_version": 3,
+    "action":{
+        "default_popup":"popup.html",
+        "default_icon":"favicon.png"
+    }
+}
